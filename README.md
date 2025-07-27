@@ -1,1 +1,1 @@
-# isa-ontariotech-website
+# Indian Student Association Website
